@@ -1,0 +1,25 @@
+date - Display the date
+time - Display current time
+day - Display today's Day
+search - To search anything on Web
+ogmeet - Open Google meet
+ogmail - Open Gmail
+ogkeep - Open Keep Notes
+ogacc - Access Google Account
+cse - Used to Change Search Engine for a search
+cse bling - used to use Mozilla for the search
+cse chrome - used to use Chrome for the search
+cse default - used to set the current search engine to default
+cml info - used to get a short info about the interface
+cml exit - used to close the browser
+cls - clear previous commands
+cml cloud - see which files are available for download from our cloud space
+color - change the color of text
+cml version - see current version of the interface
+^ - get last command
+more - visit our official website of CodySearch
+czd - Visit Official CZD Website
+cml help - To get the use of all commands
+manuel- download the manuel
+
+
